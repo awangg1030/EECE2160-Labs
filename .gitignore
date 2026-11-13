@@ -1,0 +1,7 @@
+*.zip
+*Zone.Identifier
+Lab7_Zipped/
+*.o
+*.a
+Lab7/spider
+Lab7/spiderleg
